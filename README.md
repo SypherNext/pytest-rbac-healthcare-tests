@@ -40,7 +40,7 @@ pytest-rbac-healthcare-tests/
    clone and run it separately, then leave it running:
 
    ```bash
-   git clone https://github.com/codedbyabhishekc/rbac-healthcare-system
+   git clone https://github.com/SypherNext/rbac-healthcare-system
    cd rbac-healthcare-system/backend
    npm install
    npm start
